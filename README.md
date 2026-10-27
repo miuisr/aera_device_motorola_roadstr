@@ -1,6 +1,6 @@
-# fox_device_motorola_roadstr
+# aera_device_motorola_roadstr
 
-OrangeFoxRecovery Project for Motorola Edge 70
+AeraRecovery Project for Motorola Edge 70
 
 Recovery tree for the Motorola Edge 70 codenamed `roadstr`.
 

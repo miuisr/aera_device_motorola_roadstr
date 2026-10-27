@@ -23,8 +23,8 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/emulated_storage.mk)
 # Configure twrp common.mk
 $(call inherit-product, vendor/twrp/config/common.mk)
 
-# Device-specific OrangeFox configuration
-$(call inherit-product, $(DEVICE_PATH)/fox_roadstr.mk)
+# Device-specific Aera configuration
+$(call inherit-product, $(DEVICE_PATH)/aera_roadstr.mk)
 
 # Vibration fix
 $(call inherit-product, $(DEVICE_PATH)/haptics.mk)
