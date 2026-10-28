@@ -7,7 +7,7 @@
 DEVICE_PATH := device/motorola/roadstr
 
 # Include TWRP configurations
-$(call inherit-product, $(DEVICE_PATH)/fox.mk)
+$(call inherit-product, $(DEVICE_PATH)/aera.mk)
 
 
 PRODUCT_DEVICE := roadstr
