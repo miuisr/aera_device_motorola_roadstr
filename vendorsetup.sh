@@ -31,7 +31,7 @@ aera_get_target_device() {
 }
 
 if [ -z "$AERA_BUILD_DEVICE" ]; then
-	AERA_get_target_device
+	aera_get_target_device
 fi
 
 if [ "$AERA_BUILD_DEVICE" = "$FDEVICE" ]; then
